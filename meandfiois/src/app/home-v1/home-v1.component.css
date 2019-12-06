@@ -1,0 +1,9 @@
+.example-card {
+    max-width: 400px;
+  }
+  
+  .example-header-image {
+    background-image: url('https://meandfiois.altervista.org/meandfiois.png');
+    background-size: cover;
+  }
+  
